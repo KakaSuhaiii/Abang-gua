@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6281346074841@s.whatsapp.net","6281346074841@s.whatsapp.net"],
+    "ownerName": "Izin dlu_-ᴹᴿ",
+    "instagram" : "https://instagram.com/tymon_kolasinski",
+    "botName": "Mau nyolong sticker gwa?",
+    "footer": "KilluaZoldyck||MD",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
